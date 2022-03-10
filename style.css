@@ -1,0 +1,34 @@
+*{
+    padding: 0;
+    margin: 0;
+    text-decoration: none;
+}
+.container{
+    background-color: #ccc;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    
+}
+body{
+    background-color: #161616;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    width: 95vw;
+    height: 95vh;
+
+}
+h1{
+    width: 40%;
+    text-align: center;
+    padding: 10px;
+    background-color: #ccc;
+    border-radius: 20px;
+    font-family:Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+    font-size: 52px;
+    color: #000;
+    margin-bottom: 2%;
+}
